@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/nguyendinhquocanh4869-netizen/LeetCode/tree/master/1122-relative-sort-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nguyendinhquocanh4869-netizen/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nguyendinhquocanh4869-netizen/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nguyendinhquocanh4869-netizen/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
